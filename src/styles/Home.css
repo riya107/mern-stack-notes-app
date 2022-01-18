@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+form{
+    width:200px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+form *{
+    margin: 5px;
+}

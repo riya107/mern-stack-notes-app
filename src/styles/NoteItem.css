@@ -1,0 +1,16 @@
+.card{
+    border:2px solid black;
+    text-align: center;
+    padding:10px;
+    margin:10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+i{
+    color: deeppink;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+}
