@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 This is a complete app.
-which uses nodejs and express in backend. MongoDB is used as a Database. 
+
+Which uses nodejs and express in backend. MongoDB is used as a Database. 
 
 Features of the app:
 
